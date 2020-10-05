@@ -51,4 +51,6 @@ To develop your understanding of the domain, you are advised to independently re
 	- Include visualisations and summarise the most important results in the presentation
  
 
-### You need to submit one Ipython notebook which clearly explains the thought process behind your analysis (either in comments of markdown text), code and relevant plots. Important ** Note: Please make sure to rename your Python notebook "Group_Facilitator_Name.ipynb". **
+### You need to submit one Ipython notebook which clearly explains the thought process behind your analysis (either in comments of markdown text), code and relevant plots.
+
+** Important Note: Please make sure to rename your Python notebook "Group_Facilitator_Name.ipynb". **
